@@ -79,6 +79,7 @@ export default function Home() {
               <li>Excel, Word</li>
               <li>Modelado de procesos</li>
               <li>Scrum</li>
+              <li>Trabajo en equipo</li>
             </ul>
 
           </div>
