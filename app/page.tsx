@@ -4,7 +4,7 @@ export default function Home() {
       <div className="max-w-5xl w-full bg-white shadow-2xl rounded-lg overflow-hidden">
 
         {/* HEADER */}
-        <div className="bg-blue-900 text-white p-8 flex items-center gap-6">
+        <div className="bg-indigo-800 text-white p-8 flex items-center gap-6">
           <img
             src="/foto.jpg"
             alt="foto"
@@ -74,8 +74,6 @@ export default function Home() {
             </p>
 
             <h2 className="mt-6 font-bold text-xl">Herramientas</h2>
-            <h2 className="mt-6 font-bold text-xl">Proyectos</h2>
-<p className="text-sm">Sistema de red en Cisco Packet Tracer</p>
             <ul className="list-disc ml-4 text-sm">
               <li>Java, Python, SQL</li>
               <li>Excel, Word</li>
