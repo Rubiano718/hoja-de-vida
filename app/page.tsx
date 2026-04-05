@@ -74,6 +74,8 @@ export default function Home() {
             </p>
 
             <h2 className="mt-6 font-bold text-xl">Herramientas</h2>
+            <h2 className="mt-6 font-bold text-xl">Proyectos</h2>
+<p className="text-sm">Sistema de red en Cisco Packet Tracer</p>
             <ul className="list-disc ml-4 text-sm">
               <li>Java, Python, SQL</li>
               <li>Excel, Word</li>
